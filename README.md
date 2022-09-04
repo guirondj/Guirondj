@@ -1,5 +1,5 @@
 ### Bem Vindo ao Meu Perfil 
-### Aqui Vou deixar todos os meus Desafios e Projetos  de Estudos.
+### Aqui Vou deixar todos os meus Desafios e Projetos  de Estudo.
 
 <div>
 <a href="https://github.com/guirondj">
