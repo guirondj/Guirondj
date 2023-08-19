@@ -1,9 +1,10 @@
 ### Bem Vindo ao Meu Perfil 
-### Aqui Vou deixar todos os meus Desafios e Projetos  de Estudo.
+### Prazer sou o Lucas Guiron Desenvolverdor Full Steck.
+### Aqui Vou deixar todos os meus Desafios e Projetos.
 
 <div>
 <a href="https://github.com/guirondj">
-<img height="133em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guirondj&layout=compact&langs_count=7&theme=dracula"/>
+
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guirondj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
@@ -13,7 +14,7 @@
 ## Ferramentas :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 
-## Estou estudando:
+## Em estudando:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
 
 ### Contato:
