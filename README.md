@@ -1,5 +1,5 @@
-### Sou o Lucas Guiron Desenvolverdor Fullsteck
-### Aqui Vou deixar todos os meus Desafios e Projetos.
+### Sou o Lucas Guiron Desenvolverdor Front-End
+### Aqui Vou deixar todos os meus Projetos e Desafios de estudos.
 
 <hr>
 
