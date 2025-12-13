@@ -1,6 +1,8 @@
-### Sou o Lucas Guiron Desenvolverdor Front-End
-
-### Aqui Vou deixar todos os meus Projetos e Desafios de estudos.
+<div align="center">
+  <h2>Olá, sou o Lucas Guiron! 👋</h2>
+  <h3>Desenvolvedor Front-End</h3>
+  <p>Aqui vou deixar todos os meus Projetos e Desafios de estudos.</p>
+</div>
 
 
 
