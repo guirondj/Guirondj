@@ -1,13 +1,12 @@
 <div align="center">
 👨‍💻 <h2> Lucas Guiron | Desenvolvedor Full Stack </h2>
 
-Estudante entusiasta de tecnologia e desenvolvimento web. O meu foco atual está na stack moderna de JavaScript: 
-<hr>
- 🚀 Foco Principal: React.js, Next.js e Styled Components.
-<hr>
- 🛍️ CMS: Criação de layouts profissionais com WordPress e WooCommerce.
-<hr>
- 📚 Meta: Aprofundar conceitos avançados de JavaScript e arquitetura de software.
+<h3>Estudante entusiasta de tecnologia e desenvolvimento web. O meu foco atual está na stack moderna de JavaScript: </h3>
+ 
+ <p>🚀 Foco Principal: React.js, Next.js e Styled Components. </p>
+ <p>🛍️ CMS: Criação de layouts profissionais com WordPress e WooCommerce. </p>
+ <p>📚 Meta: Aprofundar conceitos avançados de JavaScript e arquitetura de software. </p>
+ 
 </div>
 
 
