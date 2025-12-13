@@ -1,7 +1,11 @@
 <div align="center">
-  <h2>Olá, sou o Lucas Guiron! 👋</h2>
-  <h3>Desenvolvedor Front-End</h3>
-  <p>Aqui vou deixar todos os meus Projetos e Desafios de estudos.</p>
+  ### Sobre Mim
+👨‍💻 **Lucas Guiron** | Desenvolvedor Front-End
+
+Estudante entusiasta de tecnologia e desenvolvimento web. O meu foco atual está na stack moderna de JavaScript:
+* 🚀 **Foco Principal:** React.js, Next.js e Styled Components.
+* 🛍️ **CMS:** Criação de layouts profissionais com WordPress e WooCommerce.
+* 📚 **Meta:** Aprofundar conceitos avançados de JavaScript e arquitetura de software.
 </div>
 
 
