@@ -5,7 +5,7 @@
 <h4> O meu foco atual está na stack moderna de Java: </h4>
  
  <p>🚀 Foco Principal: Java, React.js, Next.js e Styled Components. </p>
- <p>🛍️ CMS: Criação de layouts profissionais com WordPress e WooCommerce. </p>
+
  <p>📚 Meta: Aprofundar conceitos avançados de Java e arquitetura de software. </p>
  
 </div>
