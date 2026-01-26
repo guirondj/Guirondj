@@ -2,7 +2,7 @@
 👨‍💻 <h2> Lucas Guiron | Desenvolvedor Full Stack </h2>
 
 <h3>Estudante entusiasta de tecnologia e desenvolvimento. </h3>
-<h4> O meu foco atual está na stack moderna de Java: </h4>
+<h4> O meu foco atual está no desenvolvimento full stack: </h4>
  
  <p>🚀 Foco Principal: Java, React.js, Next.js e Styled Components. </p>
 
